@@ -1,0 +1,28 @@
+*{
+    padding-left: 100px;
+    background-color: #F4ECE2;
+  
+}
+button{
+    padding: 15px 32px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: #BA6F4D;
+}
+input{
+    padding: 15px 20px;
+    margin-top: 10px;
+    border-color: #8E412E ;
+}
+
+div{
+    color: #687259;
+}
+h1, h3{
+    color: #545B48;
+}
+#result{
+    font-size: 40px;
+    color: #BA6F4D
+}
